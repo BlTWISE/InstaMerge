@@ -1,0 +1,3 @@
+My goal was to make a game that is inspired by Agar.io's private instant merging servers. I partially completed it by making the ball move, grow, and able to eat
+food cells. Future goals I would have for the game would be to expand the size of the game, add nicer visuals, make food not spawn inside of the player, create
+AI enemy players, and make the ball able to reduce in size over time. A far fetched futuristic goal would include networking and making it multiplayer.
